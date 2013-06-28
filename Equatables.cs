@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ *
+ * */
+using System;
 
 namespace TestConsoleApp
 {
